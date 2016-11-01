@@ -1,0 +1,7 @@
+#Tue Nov 01 12:00:18 WIB 2016
+base.0=/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cc0aba1581d977b4b785fd3e17cc8e522cc1baa9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9615cf3cf131fc6d9be08194d4d6ce6fe43e06a6/classes.dex
+base.1=/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9615cf3cf131fc6d9be08194d4d6ce6fe43e06a6
+file.0=/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cc0aba1581d977b4b785fd3e17cc8e522cc1baa9/classes.dex

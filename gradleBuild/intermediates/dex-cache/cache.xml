@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a3cce9df8c4432f72c96ae8f032b078e0558d680">
+        <dex dex="/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cc0aba1581d977b4b785fd3e17cc8e522cc1baa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0c0d3bb8c7cfe763c385c62269c32fb496555524">
+        <dex dex="/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9615cf3cf131fc6d9be08194d4d6ce6fe43e06a6/classes.dex" />
+    </item>
+
+</items>

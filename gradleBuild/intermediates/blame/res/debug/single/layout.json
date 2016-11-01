@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment.xml",
+        "source": "/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/res/layout/camera_connection_fragment.xml"
+    },
+    {
+        "merged": "/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/res/layout/activity_camera.xml"
+    }
+]

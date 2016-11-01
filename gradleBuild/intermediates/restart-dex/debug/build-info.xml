@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="3868768030141"
+    token="-7315428684316332761"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1698" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="245" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/outputs/apk/android-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="3868768030141"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/outputs/apk/android-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

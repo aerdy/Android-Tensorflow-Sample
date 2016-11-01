@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/vim/Documents/ROOT/Android/Tensorflow/tensorflow/tensorflow/examples/android/res/drawable-hdpi/ic_launcher.png"
+    }
+]
