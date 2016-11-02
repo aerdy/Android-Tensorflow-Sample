@@ -1,4 +1,3 @@
-[![Alt text for your video](http://img.youtube.com/vi/l-5TAR45w-E/0.jpg)](https://www.youtube.com/watch?v=l-5TAR45w-E)
 # TensorFlow Android Camera Demo
 
 This folder contains a simple camera-based demo application utilizing TensorFlow.
@@ -79,3 +78,6 @@ installing with adb.
 
 Once the app is installed it will be named "TensorFlow Demo" and have the orange
 TensorFlow logo as its icon.
+
+#Checkout Demo Youtube Me
+[![Alt text for your video](http://img.youtube.com/vi/l-5TAR45w-E/0.jpg)](https://www.youtube.com/watch?v=l-5TAR45w-E)
